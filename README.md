@@ -7,5 +7,6 @@
         6379 - redis
 
 # UseMe
-
-### docker-compose -f docker-compose.dev.yml up -d
+```shell
+docker-compose -f docker-compose.dev.yml up -d
+```
